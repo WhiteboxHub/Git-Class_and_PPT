@@ -1,1 +1,2 @@
 Git and GitHub Code repo for Learning 
+Configured global scope
