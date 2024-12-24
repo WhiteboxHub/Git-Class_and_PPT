@@ -1,0 +1,1 @@
+Feature Branch is used for feature release and for fixing the bugs 
