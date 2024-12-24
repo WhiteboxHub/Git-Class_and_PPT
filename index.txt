@@ -1,2 +1,4 @@
 Git and GitHub Code repo for Learning 
 Configured global scope
+worked with Main Branch
+Worked with Develop Branch
